@@ -3243,6 +3243,14 @@ input, select, textarea {
 			background-color: #5e42a6;
 		}
 
+		#two{
+			background-color: #953d75;
+		}
+
+		#three {
+			background-color: #953d75da;
+		}
+
 		.wrapper.style1-alt {
 			background-color: #493382;
 		}
